@@ -1,8 +1,9 @@
 # SISTEMA DE RECONOCIMIENTO DE PLACAS VEHICULARES
 ### Manuel Navarro Valadez
-### JAhir Alejandro Rivera Avalos
+### Jahir Alejandro Rivera Avalos
 ## OBJETIVO
 Crear un sistema seguro y con rapidez que permita el reconocimiento de placas vehiculares para mejorar la seguridad de la población objetivo.
+
 ![image](https://github.com/molki3/PPI-PROYECTO1/assets/54428156/55f8c4aa-96a0-4fe4-ba09-4975dce59de9)
 ## TECNOLOGIAS UTILIZADAS
 ![image](https://github.com/molki3/PPI-PROYECTO1/assets/54428156/0ec4302f-3f81-491e-9061-9826550b928c)
