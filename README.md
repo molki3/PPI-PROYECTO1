@@ -1,5 +1,9 @@
 # React + Vite
 
+npm create vite
+
+DEPLOY: https://www.youtube.com/watch?v=UX4gvort2TU&t=632s
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
