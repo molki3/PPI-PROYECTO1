@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1 className='bg-red-300'> hola </h1>
+      <a href="http://127.0.0.1:8000/"><button type="button" class="text-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-lg px-5 py-2.5 text-center mr-2 mb-2">Probar</button></a>
     </>
   )
 }
