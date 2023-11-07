@@ -3,6 +3,7 @@
 npm create vite
 
 DEPLOY: https://www.youtube.com/watch?v=UX4gvort2TU&t=632s
+https://vitejs.dev/guide/static-deploy.html#deploying-a-static-site
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
