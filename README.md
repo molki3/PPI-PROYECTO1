@@ -15,7 +15,7 @@ Plumas de acceso, motor de acceso, camaras y computadora
 # PRESUPUESTO
 ![image](https://github.com/molki3/PPI-PROYECTO1/assets/54428156/09290a90-4ef7-429e-99e4-2c94a9722151)
 ![image](https://github.com/molki3/PPI-PROYECTO1/assets/54428156/d0f53a96-c710-44cd-b297-e669d55d32dd)
-![image](https://github.com/molki3/PPI-PROYECTO1/assets/54428156/18b76362-0227-4657-8215-844f23518b42)
+![image](https://github.com/molki3/PPI-PROYECTO1/assets/54428156/07fff118-2658-49e0-9441-bc8669d5c125)
 
 
 
