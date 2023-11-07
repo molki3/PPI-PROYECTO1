@@ -1,3 +1,5 @@
+![image](https://github.com/molki3/PPI-PROYECTO1/assets/54428156/80fa909d-eee4-427e-a22f-632b621c60b1)
+
 # React + Vite
 
 npm create vite
